@@ -5,7 +5,7 @@ Array Sorter uses a scanner object, which will scan the user input when needed.
 
 ## User Commands
 Upon start up, the program will ask whether you want to use a file containing an array (through entering 1) or generate an array of random integers (through entering 2)  
-By entering either a 1 or a 2, the program will branch to insrtuctions for either reading in a file or generating an array.  
+By entering either a 1 or a 2, the program will branch to instructions for either reading in a file or generating an array.  
 
 At any point, the user may enter -1 to exit the program.  
 If an input entered is not valid, the user will be warned and prompted to re-enter a valid input.
